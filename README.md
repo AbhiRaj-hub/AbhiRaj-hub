@@ -157,18 +157,12 @@ I believe in giving back to the community:
 </p>
 
 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</p>
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Greysooth&theme=tokyonight)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Greysooth&theme=tokyonight)
 
 💡 Random Security Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
-</p>
-
-📊 Visitor Count
-<p align="center">
-  <img src="https://profile-counter.glitch.me/yourusername/count.svg" alt="Visitor Count" />
 </p>
 
 <p align="center">
