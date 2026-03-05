@@ -32,6 +32,7 @@ Malware Analysis: FLARE VM
 
 Web Security: SQLmap, XSStrike, OWASP ZAP
 
+
 Infrastructure & Cloud
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -153,7 +154,6 @@ Tech: Python, Scapy, C++, libpcap
 
 🏆 Certifications & Achievements
 
-
 🎓 COMPTIA Security + - Certified Cybersecurity Professional
 
 🏅 CTF Player - participant in HackTheBox, TryHackMe
@@ -163,7 +163,6 @@ Tech: Python, Scapy, C++, libpcap
 
 📝 Recent Blog Posts & Research
 <!-- BLOG-POST-LIST:START -->
-
 🔴 Living Off The Land: Advanced Evasion Techniques
 
 🔵 Building Detection Rules for LOLBin Abuse
@@ -187,11 +186,9 @@ pythoncurrent_projects = {
 💼 Professional Experience
 
 Tech Team Member | GFG KIIT
-
 Dec 2025 - Present
 
 📚 Knowledge Sharing
-
 I believe in giving back to the community:
 
 
