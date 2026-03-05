@@ -43,16 +43,22 @@ Infrastructure & Cloud
 
 
 🎯 Featured Projects
+
 🔴 Offensive Security Tools
+
 🏴‍☠️ LOLBins Attack Framework
 
 Complete workshop and simulation environment for Living Off The Land attacks
 
 
 🎯 Automated payload generation for Windows/Linux LOLBins
+
 🔬 Detection lab with SIEM integration
+
 📚 Comprehensive red team vs blue team exercises
+
 🛡️ Sigma detection rules included
+
 Tech: Python, PowerShell, Bash, VMware
 
 
@@ -62,9 +68,13 @@ Professional vulnerability assessment tool with clean modular architecture
 
 
 🔍 Port scanning with multi-threading
+
 🔐 15+ vulnerability checks (SQLi, XSS, misconfigurations)
+
 📊 CSV/JSON export capabilities
+
 🎨 Clean code architecture for easy extension
+
 Tech: Python, Socket Programming, Requests
 
 
@@ -74,21 +84,29 @@ Hide and extract secret messages in images using LSB steganography
 
 
 🖼️ PNG image encoding/decoding
+
 🔐 Encrypted message support
+
 📏 Capacity calculator
+
 Tech: Python, Pillow, Cryptography
 
 
 🔵 Defensive Security Tools
 🛡️ Sentinel-Scan: HTTP Security Auditor
 
+
 Automated web security header analyzer with grading system
 
 
 ✅ Checks 8+ critical security headers
+
 📊 Letter grade scoring (A-F)
+
 📋 Detailed recommendations
+
 🔄 Batch scanning support
+
 Tech: Python, Requests
 
 
@@ -98,9 +116,13 @@ Intelligent log analysis for detecting brute force attacks
 
 
 🔍 Parses Apache/Nginx logs
+
 🚨 Brute force detection (configurable thresholds)
+
 📈 Attack rate calculation
+
 📝 Threat level classification
+
 Tech: Python, Regex, Time Series Analysis
 
 
@@ -110,16 +132,22 @@ Network intrusion detection system analyzing packet-level data
 
 
 🔬 Detects 10+ attack signatures
+
 🌐 Port scanning detection (SYN, NULL, XMAS, FIN)
+
 ⚡ DDoS detection (SYN flood, UDP flood, ICMP flood)
+
 🎯 Application layer attacks (SQLi, XSS, command injection)
+
 💻 Python & C++ versions (5-10x faster)
+
 Tech: Python, Scapy, C++, libpcap
 
 
 📊 GitHub Stats
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhiRaj-hub&theme=tokyonight)
+
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiRaj-hub&theme=tokyonight)
 
 
@@ -127,7 +155,9 @@ Tech: Python, Scapy, C++, libpcap
 
 
 🎓 COMPTIA Security + - Certified Cybersecurity Professional
+
 🏅 CTF Player - participant in HackTheBox, TryHackMe
+
 🎤 Conference Speaker - Presented at D3 FEST IIIT BHUBANESHWAR
 
 
@@ -135,13 +165,17 @@ Tech: Python, Scapy, C++, libpcap
 <!-- BLOG-POST-LIST:START -->
 
 🔴 Living Off The Land: Advanced Evasion Techniques
+
 🔵 Building Detection Rules for LOLBin Abuse
+
 🟢 Container Escape Techniques in 2024
+
 🟡 Automating Security Assessments with Python
 
 <!-- BLOG-POST-LIST:END -->
 
 🎯 Currently Working On
+
 pythoncurrent_projects = {
     "🔬 Research": "Advanced persistence techniques in containerized environments",
     "🛠️ Development": "Automated red team C2 framework",
@@ -151,10 +185,13 @@ pythoncurrent_projects = {
 }
 
 💼 Professional Experience
+
 Tech Team Member | GFG KIIT
+
 Dec 2025 - Present
 
 📚 Knowledge Sharing
+
 I believe in giving back to the community:
 
 
