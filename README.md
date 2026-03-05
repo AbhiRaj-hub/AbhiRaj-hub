@@ -111,11 +111,9 @@ Tech: Python, Scapy, C++, libpcap
 
 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiRaj-hub&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+ username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiRaj-hub&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 🏆 Certifications & Achievements
