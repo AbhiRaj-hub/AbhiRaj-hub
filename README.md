@@ -110,12 +110,8 @@ Tech: Python, Scapy, C++, libpcap
 
 
 📊 GitHub Stats
-<p align="center">
- username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-</p>
-<p align="center">
-</p>
-
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhiRaj-hub&theme=tokyonight)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiRaj-hub&theme=tokyonight)
 🏆 Certifications & Achievements
 
 
@@ -156,9 +152,6 @@ I believe in giving back to the community:
   <a href="https://linkedin.com/in/abhishek-raj-3b7881321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-📈 Activity Graph
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Greysooth&theme=tokyonight)
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Greysooth&theme=tokyonight)
 
 💡 Random Security Quote
 <p align="center">
