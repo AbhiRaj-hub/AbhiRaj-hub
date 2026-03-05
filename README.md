@@ -14,11 +14,11 @@ I'm a cybersecurity enthusiast passionate about offensive security, vulnerabilit
 
 🛠️ Technical Skills
 Languages
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+
+
 Security Tools & Frameworks
 
 Penetration Testing: Metasploit, Nmap
@@ -32,11 +32,12 @@ Malware Analysis: FLARE VM
 Web Security: SQLmap, XSStrike, OWASP ZAP
 
 Infrastructure & Cloud
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=kubernetes&logoColor=white">
+
 
 
 🎯 Featured Projects
