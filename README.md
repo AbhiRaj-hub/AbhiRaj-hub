@@ -11,8 +11,6 @@ I'm a cybersecurity enthusiast passionate about offensive security, vulnerabilit
 🔬 Currently Exploring: Living Off The Land (LOLBins), Advanced Persistence Techniques, Container Security
 🌱 Learning: Advanced exploit development, kernel security, cloud security (AWS/Azure)
 💡 Philosophy: "To defend effectively, you must think like an attacker"
-📫 Reach me: abhishekrajdl47@gmail.com
-
 
 🛠️ Technical Skills
 Languages
@@ -24,9 +22,13 @@ Show Image
 Security Tools & Frameworks
 
 Penetration Testing: Metasploit, Nmap
+
 Network Analysis: Wireshark, tcpdump
+
 Exploitation: Armitage, BloodHound
+
 Malware Analysis: FLARE VM
+
 Web Security: SQLmap, XSStrike, OWASP ZAP
 
 Infrastructure & Cloud
