@@ -38,6 +38,7 @@ Show Image
 Show Image
 Show Image
 
+
 🎯 Featured Projects
 🔴 Offensive Security Tools
 🏴‍☠️ LOLBins Attack Framework
@@ -51,6 +52,7 @@ Complete workshop and simulation environment for Living Off The Land attacks
 🛡️ Sigma detection rules included
 Tech: Python, PowerShell, Bash, VMware
 
+
 🕵️ Vulnerability Scanner
 
 Professional vulnerability assessment tool with clean modular architecture
@@ -61,6 +63,7 @@ Professional vulnerability assessment tool with clean modular architecture
 📊 CSV/JSON export capabilities
 🎨 Clean code architecture for easy extension
 Tech: Python, Socket Programming, Requests
+
 
 🔒 Steganography Toolkit
 
@@ -85,6 +88,7 @@ Automated web security header analyzer with grading system
 🔄 Batch scanning support
 Tech: Python, Requests
 
+
 📊 LogAlert: Automated Log Analyzer
 
 Intelligent log analysis for detecting brute force attacks
@@ -95,6 +99,7 @@ Intelligent log analysis for detecting brute force attacks
 📈 Attack rate calculation
 📝 Threat level classification
 Tech: Python, Regex, Time Series Analysis
+
 
 🕸️ IDS: Lightweight Intrusion Detection
 
@@ -110,8 +115,11 @@ Tech: Python, Scapy, C++, libpcap
 
 
 📊 GitHub Stats
+
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhiRaj-hub&theme=tokyonight)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiRaj-hub&theme=tokyonight)
+
+
 🏆 Certifications & Achievements
 
 
