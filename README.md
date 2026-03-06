@@ -7,10 +7,10 @@
 🔐 About Me
 I'm a cybersecurity enthusiast passionate about offensive security, vulnerability research, and security automation. I specialize in penetration testing, red team operations, and building security tools that help defenders understand attacker methodologies.
 
-🎯 Focus Areas: Penetration Testing, Red Teaming, Malware Analysis, Security Tool Development
-🔬 Currently Exploring: Living Off The Land (LOLBins), Advanced Persistence Techniques, Container Security
-🌱 Learning: Advanced exploit development, kernel security, cloud security (AWS/Azure)
-💡 Philosophy: "To defend effectively, you must think like an attacker"
+🎯 Focus Areas: Penetration Testing, Red Teaming, Malware Analysis, Security Tool Development                               
+🔬 Currently Exploring: Living Off The Land (LOLBins), Advanced Persistence Techniques, Container Security                  
+🌱 Learning: Advanced exploit development, kernel security, cloud security (AWS/Azure)                                      
+💡 Philosophy: "To defend effectively, you must think like an attacker"                                                     
 
 🛠️ Technical Skills
 Languages
@@ -22,14 +22,14 @@ Languages
 
 Security Tools & Frameworks
 
-Penetration Testing: Metasploit, Nmap
-Network Analysis: Wireshark, tcpdump
-Exploitation: Armitage, BloodHound
-Malware Analysis: FLARE VM
-Web Security: SQLmap, XSStrike, OWASP ZAP
+Penetration Testing: Metasploit, Nmap                                                                                        
+Network Analysis: Wireshark, tcpdump                                                                                         
+Exploitation: Armitage, BloodHound                                                                                           
+Malware Analysis: FLARE VM                                                                                                   
+Web Security: SQLmap, XSStrike, OWASP ZAP                                                                                    
 
 
-Infrastructure & Cloud
+Infrastructure & Cloud                         
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white">
@@ -44,11 +44,12 @@ Infrastructure & Cloud
 🔴 Offensive Security Tools
 
 🏴‍☠️ LOLBins Attack Framework
-    Complete workshop and simulation environment for Living Off The Land attacks
 
-🎯 Automated payload generation for Windows/Linux LOLBins
-🔬 Detection lab with SIEM integration
-📚 Comprehensive red team vs blue team exercises
+Complete workshop and simulation environment for Living Off The Land attacks
+
+🎯 Automated payload generation for Windows/Linux LOLBins                                                                   
+🔬 Detection lab with SIEM integration                                                                                      
+📚 Comprehensive red team vs blue team exercises                                                                            
 🛡️ Sigma detection rules included
 
 Tech: Python, PowerShell, Bash, VMware
@@ -57,21 +58,21 @@ Tech: Python, PowerShell, Bash, VMware
 
 Professional vulnerability assessment tool with clean modular architecture
 
-🔍 Port scanning with multi-threading
-🔐 15+ vulnerability checks (SQLi, XSS, misconfigurations)
-📊 CSV/JSON export capabilities
-🎨 Clean code architecture for easy extension
-Tech: Python, Socket Programming, Requests
+🔍 Port scanning with multi-threading                                                                                       
+🔐 15+ vulnerability checks (SQLi, XSS, misconfigurations)                                                                  
+📊 CSV/JSON export capabilities                                                                                             
+🎨 Clean code architecture for easy extension                                                                               
+Tech: Python, Socket Programming, Requests                                                   
 
 
 🔒 Steganography Toolkit
 
 Hide and extract secret messages in images using LSB steganography
 
-🖼️ PNG image encoding/decoding
-🔐 Encrypted message support
-📏 Capacity calculator
-Tech: Python, Pillow, Cryptography
+🖼️ PNG image encoding/decoding                                                                                              
+🔐 Encrypted message support                                                                                                
+📏 Capacity calculator                                                                                                      
+Tech: Python, Pillow, Cryptography              
 
 
 🔵 Defensive Security Tools
@@ -80,10 +81,10 @@ Tech: Python, Pillow, Cryptography
 
 Automated web security header analyzer with grading system
 
-✅ Checks 8+ critical security headers
-📊 Letter grade scoring (A-F)
-📋 Detailed recommendations
-🔄 Batch scanning support
+✅ Checks 8+ critical security headers                                                                                      
+📊 Letter grade scoring (A-F)                                                                                               
+📋 Detailed recommendations                                                                                                 
+🔄 Batch scanning support                                                                                                   
 Tech: Python, Requests
 
 
@@ -92,23 +93,22 @@ Tech: Python, Requests
 Intelligent log analysis for detecting brute force attacks
 
 
-🔍 Parses Apache/Nginx logs
-🚨 Brute force detection (configurable thresholds)
-📈 Attack rate calculation
-📝 Threat level classification
+🔍 Parses Apache/Nginx logs                                                                                                 
+🚨 Brute force detection (configurable thresholds)                                                                          
+📈 Attack rate calculation                                                                                                  
+📝 Threat level classification                                                                                              
 Tech: Python, Regex, Time Series Analysis
 
 
-🕸️ IDS: Lightweight Intrusion Detection
+🕸️ IDS: Lightweight Intrusion Detection                                                                        
 
 Network intrusion detection system analyzing packet-level data
 
-🔬 Detects 10+ attack signatures
-🌐 Port scanning detection (SYN, NULL, XMAS, FIN)
-⚡ DDoS detection (SYN flood, UDP flood, ICMP flood)
-🎯 Application layer attacks (SQLi, XSS, command injection)
-💻 Python & C++ versions (5-10x faster)
-Tech: Python, Scapy, C++, libpcap
+🔬 Detects 10+ attack signatures                                                                                            
+🌐 Port scanning detection (SYN, NULL, XMAS, FIN)                                                                           
+⚡ DDoS detection (SYN flood, UDP flood, ICMP flood)                                                                        
+🎯 Application layer attacks (SQLi, XSS, command injection)                                                               
+Tech: Python, Scapy, libpcap
 
 
 📊 GitHub Stats
@@ -119,35 +119,26 @@ Tech: Python, Scapy, C++, libpcap
 
 
 🏆 Certifications & Achievements
-🎓 COMPTIA Security + - Certified Cybersecurity Professional
-🏅 CTF Player - participant in HackTheBox, TryHackMe
-🎤 Conference Speaker - Presented at D3 FEST IIIT BHUBANESHWAR
+🎓 COMPTIA Security + - Certified Cybersecurity Professional                                                                
+🏅 CTF Player - participant in HackTheBox, TryHackMe                                                                        
+🎤 Conference Speaker - Presented at D3 FEST IIIT BHUBANESHWAR                                                              
 
-
-📝 Recent Blog Posts & Research
-<!-- BLOG-POST-LIST:START -->
-🔴 Living Off The Land: Advanced Evasion Techniques
-🔵 Building Detection Rules for LOLBin Abuse
-🟢 Container Escape Techniques in 2024
-🟡 Automating Security Assessments with Python
-
-<!-- BLOG-POST-LIST:END -->
 
 🎯 Currently Working On
 
 pythoncurrent_projects = {
-    "🔬 Research": "Advanced persistence techniques in containerized environments", 
-    "🛠️ Development": "Automated red team C2 framework", 
-    "📚 Learning": "Kernel exploitation and rootkit development", 
-    "✍️ Writing": "Complete guide to API security testing", 
-    "🎓 Teaching": "Conducting LOLBins workshop for security professionals" 
+    "🔬 Research": "Advanced persistence techniques in containerized environments",                                         
+    "🛠️ Development": "Automated red team C2 framework",                                                                    
+    "📚 Learning": "Kernel exploitation and rootkit development",                                                           
+    "✍️ Writing": "Complete guide to API security testing",                                                                 
+    "🎓 Teaching": "Conducting LOLBins workshop for security professionals"                                                 
 }
 
-💼 Professional Experience
-Tech Team Member | GFG KIIT
-Dec 2025 - Present
+💼 Professional Experience                                                                                                  
+Tech Team Member | GFG KIIT                                                                                                  
+Dec 2025 - Present  
 
-📚 Knowledge Sharing
+📚 Knowledge Sharing                                                                                                        
 I believe in giving back to the community:
 
 
