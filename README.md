@@ -24,19 +24,14 @@ Security Tools & Frameworks
 
 Penetration Testing: Metasploit, Nmap                                                                                        
 Network Analysis: Wireshark, tcpdump                                                                                         
-Exploitation: Armitage, BloodHound                                                                                           
-Malware Analysis: FLARE VM                                                                                                   
-Web Security: SQLmap, XSStrike, OWASP ZAP                                                                                    
+Exploitation: Armitage                                                                                          
+Malware Analysis: FLARE VM                                                                                 
 
 
 Infrastructure & Cloud                         
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-
 
 
 🎯 Featured Projects
@@ -127,10 +122,7 @@ Tech: Python, Scapy, libpcap
 🎯 Currently Working On
 
 pythoncurrent_projects = {
-    "🔬 Research": "Advanced persistence techniques in containerized environments",                                         
-    "🛠️ Development": "Automated red team C2 framework",                                                                    
-    "📚 Learning": "Kernel exploitation and rootkit development",                                                           
-    "✍️ Writing": "Complete guide to API security testing",                                                                 
+    "🔬 Research": "Advanced persistence techniques in containerized environments",   
     "🎓 Teaching": "Conducting LOLBins workshop for security professionals"                                                 
 }
 
