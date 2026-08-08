@@ -182,9 +182,6 @@ current_projects = {
   <a href="https://linkedin.com/in/abhishek-raj-3b7881321">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Azure/Azure-Sentinel/pull/14663">
-    <img src="https://img.shields.io/badge/Sentinel_Contribution-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Sentinel PR"/>
-  </a>
 </p>
 
 ---
