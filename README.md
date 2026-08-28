@@ -2,7 +2,7 @@
 🛡️ Cybersecurity | Identity Security | Blue Team | Open Source Contributor
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fiat+Mono&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer;Identity+Security+Specialist;Microsoft+Sentinel+Contributor;CTF+Player;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fiat+Mono&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer;Identity+Security+Specialist;CTF+Player;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
